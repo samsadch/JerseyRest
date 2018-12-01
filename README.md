@@ -1,0 +1,2 @@
+# JerseyRest
+Simple restful webservice
